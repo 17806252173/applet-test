@@ -1,4 +1,4 @@
-# 04.16wx-vue
+# wx-vue
 
 > A Mpvue project
 
